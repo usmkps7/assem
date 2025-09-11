@@ -21,3 +21,5 @@ assembly Language: 이진수와 명령어의 1 ㄷ 1 대응
 *Questions*
 
 Linker: 여러 개의 오브젝트 파일(Object File)이나 라이브러리(Library)를 하나로 묶어 실행 가능한 파일(Executable File)을 만드는 프로그램
+
+어셈블리어로 만들 수 있는 프로그램 유형:운영체제(OS)의 일부, 임베디드 시스템 소프트웨어, 성능이 중요한 코드, 컴파일러 및 링커, 디버거 및 시스템 유틸리티
