@@ -1,3 +1,4 @@
+# 1.7.1
 1. In an 8-bit binary number, which is the most significant bit (MSB)?
     8비트 이진수에서 가장 왼쪽, 최상의 비트는 7비트
    
@@ -84,3 +85,5 @@ relation to the table from question number 25? Have you heard of De Morgan’s T
 
 28. How many selector bits are required for a four-input multiplexer?
     입력: 4개 → n = 4, 선택 비트 수: log2 4  = 2
+
+--------------------------------------------------------------------------------------
