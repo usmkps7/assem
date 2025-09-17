@@ -1,5 +1,5 @@
 # assem
 
-ftpserver.keecole.kr
-if: assembly
-pwd: assembly2025
+# ftpserver.keecole.kr
+# if: assembly
+# pwd: assembly2025
