@@ -7,17 +7,15 @@
 
 4. Calculate binary 00001101 minus 00000111
 
-6. How many bits are used by each of the following data types?
+5. How many bits are used by each of the following data types?
 
-7. What is the minimum number of binary bits needed to represent each of the following unsigned decimal integers?
+6. What is the minimum number of binary bits needed to represent each of the following unsigned decimal integers?
 
-8. What is the hexadecimal representation of each of the following binary numbers?
+7. What is the hexadecimal representation of each of the following binary numbers?
 
-9. What is the binary representation of the following hexadecimal numbers?
+8. What is the binary representation of the following hexadecimal numbers?
 
-10. What is the unsigned decimal representation of each of the following hexadecimal integers?
-
-11. What is the unsigned decimal representation of each of the following hexadecimal integers?
+9. What is the unsigned decimal representation of each of the following hexadecimal integers?
 
 12. What is the 16-bit hexadecimal representation of each of the following signed decimal integers?
 
