@@ -17,38 +17,42 @@
 
 9. What is the unsigned decimal representation of each of the following hexadecimal integers?
 
+10. What is the unsigned decimal representation of each of the following hexadecimal integers?
+
+11. What is the 16-bit hexadecimal representation of each of the following signed decimal integers?
+
 12. What is the 16-bit hexadecimal representation of each of the following signed decimal integers?
 
-13. What is the 16-bit hexadecimal representation of each of the following signed decimal integers?
+13. The following 16-bit hexadecimal numbers represent signed integers. Convert each to decimal.
 
 14. The following 16-bit hexadecimal numbers represent signed integers. Convert each to decimal.
 
-15. The following 16-bit hexadecimal numbers represent signed integers. Convert each to decimal.
+15. What is the decimal representation of each of the following signed binary numbers?
 
 16. What is the decimal representation of each of the following signed binary numbers?
 
-17. What is the decimal representation of each of the following signed binary numbers?
+17. What is the 8-bit binary (two’s-complement) representation of each of the following signed decimal integers?
 
 18. What is the 8-bit binary (two’s-complement) representation of each of the following signed decimal integers?
 
-19. What is the 8-bit binary (two’s-complement) representation of each of the following signed decimal integers?
+19 What is the sum of each pair of hexadecimal integers?
 
 20. What is the sum of each pair of hexadecimal integers?
 
-22. What are the hexadecimal and decimal representations of the ASCII character capital B?
+21. What are the hexadecimal and decimal representations of the ASCII character capital B?
 
-23. What are the hexadecimal and decimal representations of the ASCII character capital G?
+22. What are the hexadecimal and decimal representations of the ASCII character capital G?
 
-24. Challenge: What is the largest decimal value you can represent, using a 129-bit unsigned integer?
+23. Challenge: What is the largest decimal value you can represent, using a 129-bit unsigned integer?
 
-25. Challenge: What is the largest decimal value you can represent, using a 86-bit signed integer?
+24. Challenge: What is the largest decimal value you can represent, using a 86-bit signed integer?
 
-26. Create a truth table to show all possible inputs and outputs for the boolean function described by ¬( ).
+25. Create a truth table to show all possible inputs and outputs for the boolean function described by ¬( ).
 
-27. Create a truth table to show all possible inputs and outputs for the boolean function
+26. Create a truth table to show all possible inputs and outputs for the boolean function
 described by ( ). How would you describe the rightmost column of this table in
 relation to the table from question number 25? Have you heard of De Morgan’s Theorem?
 
-28. If a boolean function has four inputs, how many rows are required for its truth table?
+27. If a boolean function has four inputs, how many rows are required for its truth table?
 
-29. How many selector bits are required for a four-input multiplexer?
+28. How many selector bits are required for a four-input multiplexer?
