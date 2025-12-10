@@ -1,0 +1,9 @@
+﻿  Assembling decrypt_Dll.asm...
+  Assembling encrypt_Dll.asm...
+  Assembling DllMain.asm...
+C:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+DllMain.asm(21): warning A6004: procedure argument or local not referenced : hInst
+DllMain.asm(21): warning A6004: procedure argument or local not referenced : reason
+DllMain.asm(21): warning A6004: procedure argument or local not referenced : reserved
+     C:\assembly\AsmCryptoLib\Debug\AsmCryptoDll.lib 라이브러리 및 C:\assembly\AsmCryptoLib\Debug\AsmCryptoDll.exp 개체를 생성하고 있습니다.
+  AsmCryptoDll.vcxproj -> C:\assembly\AsmCryptoLib\Debug\AsmCryptoDll.dll

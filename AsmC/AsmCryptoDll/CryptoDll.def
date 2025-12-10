@@ -1,0 +1,4 @@
+LIBRARY AsmCryptoDll
+EXPORTS
+    EncryptBuffer @1
+    DecryptBuffer @2
