@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../AsmCryptoDll/AsmCryptoDll.vcxproj" Id="f389d3ab-8948-40da-9473-e00cb2dd78bc" />
+  <Project Path="AsmCryptoLib.vcxproj" Id="24591dd7-27c1-4804-87eb-0dd3c1d9d202" />
+</Solution>
